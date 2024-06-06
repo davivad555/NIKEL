@@ -4,7 +4,7 @@ const session = localStorage.getItem("session");
 let data = {
     transactions:[]
 };
- //lançametos
+ //LANÇAMENTOS
 document.getElementById("button-logout").addEventListener("click", logout);
 
 
